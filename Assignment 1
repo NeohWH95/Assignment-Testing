@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+   <meta charset="utf-8">
+   <link rel="stylesheet" href="mystle.css">
+   <title> ASSIGNMENT </title>
+</head>
+<body>
+
+<h1> Wei Heng's bucket </h1>
+
+<div>Things I like to eat</div>
+
+<ul>
+<ls>Pizza</ls>
+<ls>Burger</ls>
+<ls>KFC</ls>
+</ul>
+
+<div>Things that I hate to eat</div>
+
+<ul>
+  <ls>sambal</ls>
+  <ls>belacan</ls>
+  <ls>duaban</ls>
+</ul>
+
+</body>
+</html>
